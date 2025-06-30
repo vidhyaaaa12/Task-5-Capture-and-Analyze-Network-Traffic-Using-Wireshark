@@ -10,7 +10,6 @@ Capture live network packets using Wireshark, apply protocol filters, and analyz
 - **Command Prompt** (for ping operations)
 - **Google Chrome** (or any web browser)
 
-
 ## Steps Performed
 
 1. Installed Wireshark and Npcap (packet capture driver).
@@ -34,8 +33,6 @@ Capture live network packets using Wireshark, apply protocol filters, and analyz
 | **ICMP** | Used for network diagnostics (e.g., ping). ICMP Echo Request/Reply packets were captured when pinging 8.8.8.8.                                      |
 | **DNS**  | Domain Name System queries were captured when accessing websites. Shows how domain names are resolved to IP addresses.                              |
 | **TCP**  | Transmission Control Protocol – observed for most reliable connections, especially in web communication. TLS (encrypted HTTPS) was present as well. |
-
----
 
 ##  Files Included
 
